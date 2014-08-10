@@ -2,6 +2,7 @@ package com.example.magneto;
 
 import org.apache.wicket.util.tester.WicketTester;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import com.example.magneto.HomePage;
